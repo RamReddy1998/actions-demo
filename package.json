@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "Simple GitHub Actions Demo",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
